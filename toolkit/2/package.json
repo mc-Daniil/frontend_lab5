@@ -1,0 +1,20 @@
+{
+  "name": "axios-cors-test",
+  "version": "1.0.0",
+  "description": "Axios GET request test in browser and Node.js",
+  "main": "node-request.cjs",
+  "scripts": {
+    "dev": "webpack serve --mode development",
+    "build": "webpack --mode production",
+    "node": "node node-request.cjs"
+  },
+  "dependencies": {
+    "axios": "^1.0.0"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^5.0.0",
+    "webpack": "^5.0.0",
+    "webpack-cli": "^6.0.0",
+    "webpack-dev-server": "^5.0.0"
+  }
+}
