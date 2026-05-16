@@ -35,3 +35,22 @@ Postman установлен
 
 В случае с geoip есть заголовок `access-control-allow-origin: *`, что позволяет обращаться с других origin. Другие заголовки показывают, что сервер явно настроен на обработку cross-origin-запросов.
 
+## Задание 6
+Получил API-ключ
+![alt text](image-7.png)
+С помощью ключа запросил список пользователей
+![alt text](image-8.png)
+Для регистрации в Headers указал API-ключ, в Body указал email и password в urlencoding. Пользователь зарегистрирован
+![alt text](image-9.png)
+
+## Задание 7
+Залогиниться тоже получилось
+![alt text](image-10.png)
+
+## Задание 8
+- local
+![alt text](image-11.png)
+- dev
+![alt text](image-12.png)
+- prod
+![alt text](image-13.png)

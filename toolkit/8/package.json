@@ -1,0 +1,19 @@
+{
+  "name": "env-build-configs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "local": "webpack serve --env config=local --mode development",
+    "build:local": "webpack --env config=local --mode development",
+    "build:dev": "webpack --env config=dev --mode development",
+    "build:prod": "webpack --env config=prod --mode production"
+  },
+  "devDependencies": {
+    "dotenv": "^17.0.0",
+    "html-webpack-plugin": "^5.6.0",
+    "webpack": "^5.0.0",
+    "webpack-cli": "^6.0.0",
+    "webpack-dev-server": "^5.0.0"
+  }
+}
