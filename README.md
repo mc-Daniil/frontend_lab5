@@ -47,7 +47,7 @@ Postman установлен
 Залогиниться тоже получилось
 ![alt text](image-10.png)
 
-## Задание 8
+## [Задание 8](toolkit/8/)
 - local
 ![alt text](image-11.png)
 - dev
