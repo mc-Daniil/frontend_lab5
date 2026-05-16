@@ -59,3 +59,9 @@ Postman установлен
 
 ## [Задание 1](vue/1/)
 ![alt text](image-14.png)
+
+## [Задание 2](vue/2/)
+
+## [Задание 3](vue/3/)
+- Vue проект создан
+![alt text](image-15.png)
