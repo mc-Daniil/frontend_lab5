@@ -54,3 +54,8 @@ Postman установлен
 ![alt text](image-12.png)
 - prod
 ![alt text](image-13.png)
+
+# Лабораторная по VueJS
+
+## [Задание 1](vue/1/)
+![alt text](image-14.png)
